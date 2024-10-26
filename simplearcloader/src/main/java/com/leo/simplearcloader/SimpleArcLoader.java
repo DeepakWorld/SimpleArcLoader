@@ -1,4 +1,4 @@
-package com.github.simplearcloader;
+package com.DeepakWorld.simplearcloader;
 
 import android.content.Context;
 import android.content.res.TypedArray;

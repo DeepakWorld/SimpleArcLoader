@@ -1,4 +1,4 @@
-package com.github.simplearcloader;
+package com.DeepakWorld.simplearcloader;
 
 import android.app.Dialog;
 import android.content.Context;
